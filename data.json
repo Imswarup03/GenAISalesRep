@@ -1,0 +1,246 @@
+{
+    "hcp_data": [
+      {
+        "hcp_name": "Dr. Rohan Sodhi",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 80,
+        "penetration": 60,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Srikanth",
+        "indication": "Breast Cancer",
+        "drug_name": "Herceptin",
+        "potential": 90,
+        "penetration": 70,
+        "belief": 3
+      },
+      {
+        "hcp_name": "Dr. Neha Gupta",
+        "indication": "Chronic Myeloid Leukemia",
+        "drug_name": "Gleevec",
+        "potential": 100,
+        "penetration": 80,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Deepak Kumar",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 110,
+        "penetration": 90,
+        "belief": 5
+      },
+      {
+        "hcp_name": "Dr. Anita Reddy",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 120,
+        "penetration": 95,
+        "belief": 3
+      },
+      {
+        "hcp_name": "Dr. Meera Rajput",
+        "indication": "Breast Cancer",
+        "drug_name": "Herceptin",
+        "potential": 100,
+        "penetration": 85,
+        "belief": 5
+      },
+      {
+        "hcp_name": "Dr. Ajay Verma",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 95,
+        "penetration": 75,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Anand Patel",
+        "indication": "Advanced Renal Cell Carcinoma",
+        "drug_name": "Opdivo",
+        "potential": 105,
+        "penetration": 85,
+        "belief": 5
+      },
+      {
+        "hcp_name": "Dr. Priya Sharma",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 115,
+        "penetration": 90,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Rahul Singh",
+        "indication": "Melanoma",
+        "drug_name": "Keytruda",
+        "potential": 110,
+        "penetration": 80,
+        "belief": 3
+      },
+      {
+        "hcp_name": "Dr. Amit Gupta",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 100,
+        "penetration": 70,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Priyanka Patel",
+        "indication": "Breast Cancer",
+        "drug_name": "Herceptin",
+        "potential": 95,
+        "penetration": 65,
+        "belief": 3
+      },
+      {
+        "hcp_name": "Dr. Sanjay Kumar",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 105,
+        "penetration": 75,
+        "belief": 5
+      },
+      {
+        "hcp_name": "Dr. Ritu Sharma",
+        "indication": "Colorectal Cancer",
+        "drug_name": "Avastin",
+        "potential": 110,
+        "penetration": 85,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Arjun Singh",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 115,
+        "penetration": 80,
+        "belief": 5
+      },
+      {
+        "hcp_name": "Dr. Pooja Patel",
+        "indication": "Ovarian Cancer",
+        "drug_name": "Bevacizumab",
+        "potential": 100,
+        "penetration": 75,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Rajesh Sharma",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 120,
+        "penetration": 90,
+        "belief": 5
+      },
+      {
+        "hcp_name": "Dr. Sunita Verma",
+        "indication": "Chronic Lymphocytic Leukemia",
+        "drug_name": "Imbruvica",
+        "potential": 95,
+        "penetration": 80,
+        "belief": 3
+      },
+      {
+        "hcp_name": "Dr. Vikas Singh",
+        "indication": "1L NSCLC",
+        "drug_name": "Tecentriq",
+        "potential": 110,
+        "penetration": 75,
+        "belief": 4
+      },
+      {
+        "hcp_name": "Dr. Nidhi Shah",
+        "indication": "Pancreatic Cancer",
+        "drug_name": "Abraxane",
+        "potential": 105,
+        "penetration": 70,
+        "belief": 4
+      },
+          {
+            "hcp_name": "Dr. Akash Sharma",
+            "indication": "1L NSCLC",
+            "drug_name": "Tecentriq",
+            "potential": 85,
+            "penetration": 65,
+            "belief": 4
+          },
+          {
+            "hcp_name": "Dr. Priya Singh",
+            "indication": "Breast Cancer",
+            "drug_name": "Herceptin",
+            "potential": 95,
+            "penetration": 75,
+            "belief": 3
+          },
+          {
+            "hcp_name": "Dr. Sanjeev Patel",
+            "indication": "Lung Cancer",
+            "drug_name": "Keytruda",
+            "potential": 110,
+            "penetration": 85,
+            "belief": 4
+          },
+          {
+            "hcp_name": "Dr. Neha Verma",
+            "indication": "Gastric Cancer",
+            "drug_name": "Avastin",
+            "potential": 105,
+            "penetration": 70,
+            "belief": 5
+          },
+          {
+            "hcp_name": "Dr. Rahul Kapoor",
+            "indication": "1L NSCLC",
+            "drug_name": "Tecentriq",
+            "potential": 120,
+            "penetration": 95,
+            "belief": 4
+          },
+          {
+            "hcp_name": "Dr. Preeti Sharma",
+            "indication": "Colorectal Cancer",
+            "drug_name": "Opdivo",
+            "potential": 100,
+            "penetration": 80,
+            "belief": 5
+          },
+          {
+            "hcp_name": "Dr. Vikram Singh",
+            "indication": "Breast Cancer",
+            "drug_name": "Herceptin",
+            "potential": 90,
+            "penetration": 60,
+            "belief": 3
+          },
+          {
+            "hcp_name": "Dr. Kritika Patel",
+            "indication": "Melanoma",
+            "drug_name": "Keytruda",
+            "potential": 115,
+            "penetration": 90,
+            "belief": 5
+          },
+          {
+            "hcp_name": "Dr. Ajay Gupta",
+            "indication": "1L NSCLC",
+            "drug_name": "Tecentriq",
+            "potential": 95,
+            "penetration": 70,
+            "belief": 4
+          },
+          {
+            "hcp_name": "Dr. Rashmi Sharma",
+            "indication": "Breast Cancer",
+            "drug_name": "Herceptin",
+            "potential": 100,
+            "penetration": 65,
+            "belief": 3
+          }
+      
+    ]
+  }
+  

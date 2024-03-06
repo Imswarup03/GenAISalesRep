@@ -1,0 +1,82 @@
+new_response_data= {
+    "response": {
+        "graph": {
+                "data": {
+                  "labels": ["Jan", "Feb", "Mar", "Apr", "May", "June", "July"],
+                  "datasets": [{
+                    "label": "Belief",
+                    "data": [3, 3, 2.7, 3.2, 2.9, 3, 3],
+                    "fill": false,
+                    "borderColor": "rgb(75, 192, 192)",
+                    "lineTension": 0.1
+                  }]
+                },
+                "options": {
+                  "scales": {
+                    "xAxes": [{
+                      "scaleLabel": {
+                        "display": true,
+                        "labelString": "Month"
+                      }
+                    }],
+                    "yAxes": [{
+                      "scaleLabel": {
+                        "display": true,
+                        "labelString": "Belief"
+                      }
+                    }]
+                  }
+                }
+              },
+            "type": "line"
+        },
+        "speking_text": "<speak>In 2023, there were 20 effective engagements with the HCP, Dr. Rohan for Tecentriq 1L NSCLC. The engagements peaked in the third quarter.</speak>",
+        "text": """For Dr Rohan, the penetration for Tecentriq patients is 7% in NSCLC and 9% in HCC. You have had 21 touchpoints with Dr. Rohan for Tecentriq 1L NSCLC so far in 7 months. That looks optimal Clearly, it merits further digging to understand factors affecting low Tecentriq prescriptions by Dr Rohan . I can review the engagement effectiveness and his belief level with you.""",
+        "thread_id": thread_id,
+        "type": "graph"
+    }
+    }
+
+
+    {
+        "response": {
+            "follow_up": [
+                "Check out DALTONRx for further recommendations",
+                "Thanks for helping. I am good for now"
+            ],
+            "graph": {
+                "data": {
+                    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "June", "July"],
+                    "datasets": [{
+                        "label": "Belief",
+                        "data": [3, 3, 2.7, 3.2, 2.9, 3, 3],
+                        "fill": false,
+                        "borderColor": "rgb(75, 192, 192)",
+                        "lineTension": 0.1
+                    }]
+                },
+                "options": {
+                    "scales": {
+                        "xAxes": [{
+                            "scaleLabel": {
+                                "display": true,
+                                "labelString": "Month"
+                            }
+                        }],
+                        "yAxes": [{
+                            "scaleLabel": {
+                                "display": true,
+                                "labelString": "Belief"
+                            }
+                        }]
+                    }
+                },
+                "type": "line"
+            },
+            "speaking_text": "<speak>Dr. Rohan's Belief Score for Tecentriq 1L NSCLC is rated at 3 out of 5. He expresses concerns about treatment efficacy for different patient profiles in 1L NSCLC, potentially contributing to low penetration. It's crucial to highlight advice from Tecentriq's Marketing Partner for future communication:<break time=\"500ms\"/>For Tecentriq in 1L NSCLC:<break time=\"500ms\"/>ABCP offers significant overall survival, comparable to other IO molecules. In PDL1 high patients, it has shown a notable improvement in median OS. OS benefits continue in key subgroups, regardless of bulky disease.<break time=\"500ms\"/>Tecentriq's superior overall survival and response rate improve patients' quality of life. Additionally, a reduced cost burden is emphasized, with patients paying for only the first 4 months annually.<break time=\"500ms\"/>For Tecentriq HCC:<break time=\"500ms\"/>Dr. Rohan values systemic therapy efficacy but is concerned about affordability. T+A offers value benefits in 1L uHCC over SOC, providing superior overall survival, secondary endpoints, and better radiological responses in certain uHCC patients. Freedom PAP offers better patient support with affordability as a concern.<break time=\"500ms\"/>Referring to the DALTONRx app can provide a quick recap for future meetings with Dr. Rohan to address his clinical belief in Tecentriq.</speak>",
+            "text": "<p>Dr Rohan's Belief Score for Tecentriq 1L NSCLC is pegged at 3/5. He has expressed concerns about efficacy of treatments in different patient profiles for 1L NSCLC. That might be the prime reason for low penetration. It is important to underline the following advice from Tecentriq's Marketing Partner in your future communication with Dr Rohan:</p><p>For Tecentriq in 1L NSCLC<br>ABCP offers patients with significant overall survival of 19.8 months, which is comparable to other IO molecules, and especially in PDL1 high patients ABCP has proven a median OS of 30 months and in PDL1 +ve patients a median OS of 20 months.<br>The OS benefit of ABCP continued to show in key subgroups such as in patients with EGFR mutations the OS was 29 months and with liver mets patients it was 13 months.With or without bulky disease, clinical benefit with ABCP was seen in patients.<br>Along with Tecentriq's superior overall survival and overall response rate, which improves patients' quality of life, we are also removing the cost burden for patients with Tecentriq as the patients only pays for the 1st 4 months in a year and the remaining months are free of cost in that year - summing up to 11.8 lakhs for Tecentriq.</p><p>For Tecentriq HCC,<br>Dr. Rohan believes in the superior efficacy offered by any systemic therapy, however has concern over the affordability factor. T+A  offers value benefits in 1L uHCC over SOC which are cheaper than immunotherapy i.e. - Overall survival and Secondary end points - Best radiological resposne in terms of overall response rate as well as complete response achieved in certain section of uHCC patients with better QOL and safety profile. Freedom PAP offers better patient support with affordability as concern</p><p>I hope you will refer to the DALTONRx app for a quick recap of the exact message to be narrated in your future meetings with Dr Rohan to address his clinical belief in Tecentriq.</p>",
+            "thread_id": "thread_T8IOBgXwEW04pJUlSVeEiKJX",
+            "type": "graph"
+        }
+    }
+    

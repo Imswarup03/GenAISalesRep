@@ -1,0 +1,687 @@
+{
+        "Rohan Sodhi": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Rohan Sodhi",
+                "drug_name": "Tecentriq",
+                "potential": "85",
+                "penetration": "70",
+                "belief": "3.5",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "27",
+                "dot": "160"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Rohan Sodhi",
+                "drug_name": "Tecentriq",
+                "potential": "80",
+                "penetration": "65",
+                "belief": "4.0",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "22",
+                "dot": "150"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Rohan Sodhi",
+                "drug_name": "Tecentriq",
+                "potential": "88",
+                "penetration": "73",
+                "belief": "4.4",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "32",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Rohan Sodhi",
+                "drug_name": "Tecentriq",
+                "potential": "82",
+                "penetration": "68",
+                "belief": "4.2",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "28",
+                "dot": "75"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Rohan Sodhi",
+                "drug_name": "Tecentriq",
+                "potential": "78",
+                "penetration": "64",
+                "belief": "3.7",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "23",
+                "dot": "110"
+            }
+        ],
+    "Ankit Sharma": [
+        {
+            "month": "2023-02",
+            "hcp_name": "Ankit Sharma",
+            "drug_name": "Tecentriq",
+            "potential": "80",
+            "penetration": "70",
+            "belief": "5",
+            "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+            "npt(New_patient_Therapy)": "25",
+            "dot": "150"
+        },
+        {
+            "month": "2023-03",
+            "hcp_name": "Ankit Sharma",
+            "drug_name": "Tecentriq",
+            "potential": "85",
+            "penetration": "75",
+            "belief": "5",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "20",
+            "dot": "120"
+        },
+        {
+            "month": "2023-04",
+            "hcp_name": "Ankit Sharma",
+            "drug_name": "Tecentriq",
+            "potential": "90",
+            "penetration": "80",
+            "belief": "5",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "30",
+            "dot": "180"
+        },
+        {
+            "month": "2023-05",
+            "hcp_name": "Ankit Sharma",
+            "drug_name": "Tecentriq",
+            "potential": "85",
+            "penetration": "70",
+            "belief": "5",
+            "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+            "npt(New_patient_Therapy)": "25",
+            "dot": "60"
+        },
+        {
+            "month": "2023-06",
+            "hcp_name": "Ankit Sharma",
+            "drug_name": "Tecentriq",
+            "potential": "80",
+            "penetration": "75",
+            "belief": "5",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "15",
+            "dot": "90"
+        }
+    ],
+    "Apurva Patel": [
+        {
+            "month": "2023-02",
+            "hcp_name": "Apurva Patel",
+            "drug_name": "Tecentriq",
+            "potential": "85",
+            "penetration": "72",
+            "belief": "4.2",
+            "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+            "npt(New_patient_Therapy)": "28",
+            "dot": "165"
+        },
+        {
+            "month": "2023-03",
+            "hcp_name": "Apurva Patel",
+            "drug_name": "Tecentriq",
+            "potential": "82",
+            "penetration": "68",
+            "belief": "3.5",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "23",
+            "dot": "135"
+        },
+        {
+            "month": "2023-04",
+            "hcp_name": "Apurva Patel",
+            "drug_name": "Tecentriq",
+            "potential": "88",
+            "penetration": "77",
+            "belief": "4.7",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "32",
+            "dot": "175"
+        },
+        {
+            "month": "2023-05",
+            "hcp_name": "Apurva Patel",
+            "drug_name": "Tecentriq",
+            "potential": "84",
+            "penetration": "71",
+            "belief": "2.9",
+            "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+            "npt(New_patient_Therapy)": "26",
+            "dot": "80"
+        },
+        {
+            "month": "2023-06",
+            "hcp_name": "Apurva Patel",
+            "drug_name": "Tecentriq",
+            "potential": "79",
+            "penetration": "67",
+            "belief": "4.4",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "18",
+            "dot": "110"
+        }
+    ],
+    "Ashis Upadhyay": [
+        {
+            "month": "2023-02",
+            "hcp_name": "Ashis Upadhyay",
+            "drug_name": "Tecentriq",
+            "potential": "87",
+            "penetration": "75",
+            "belief": "3.8",
+            "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+            "npt(New_patient_Therapy)": "29",
+            "dot": "160"
+        },
+        {
+            "month": "2023-03",
+            "hcp_name": "Ashis Upadhyay",
+            "drug_name": "Tecentriq",
+            "potential": "83",
+            "penetration": "70",
+            "belief": "4.1",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "22",
+            "dot": "140"
+        },
+        {
+            "month": "2023-04",
+            "hcp_name": "Ashis Upadhyay",
+            "drug_name": "Tecentriq",
+            "potential": "89",
+            "penetration": "78",
+            "belief": "2.9",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "30",
+            "dot": "175"
+        },
+        {
+            "month": "2023-05",
+            "hcp_name": "Ashis Upadhyay",
+            "drug_name": "Tecentriq",
+            "potential": "85",
+            "penetration": "73",
+            "belief": "4.5",
+            "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+            "npt(New_patient_Therapy)": "28",
+            "dot": "70"
+        },
+        {
+            "month": "2023-06",
+            "hcp_name": "Ashis Upadhyay",
+            "drug_name": "Tecentriq",
+            "potential": "80",
+            "penetration": "68",
+            "belief": "3.4",
+            "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+            "npt(New_patient_Therapy)": "20",
+            "dot": "100"
+        }
+    ],
+        "Dunkan Kanikar": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Dunkan Kanikar",
+                "drug_name": "Tecentriq",
+                "potential": "86",
+                "penetration": "74",
+                "belief": "4.3",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "27",
+                "dot": "165"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Dunkan Kanikar",
+                "drug_name": "Tecentriq",
+                "potential": "84",
+                "penetration": "71",
+                "belief": "3.7",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "25",
+                "dot": "155"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Dunkan Kanikar",
+                "drug_name": "Tecentriq",
+                "potential": "88",
+                "penetration": "76",
+                "belief": "4.8",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "32",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Dunkan Kanikar",
+                "drug_name": "Tecentriq",
+                "potential": "83",
+                "penetration": "70",
+                "belief": "3.5",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "26",
+                "dot": "80"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Dunkan Kanikar",
+                "drug_name": "Tecentriq",
+                "potential": "79",
+                "penetration": "67",
+                "belief": "4.2",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "18",
+                "dot": "110"
+            }
+        ],
+        "Gaurang Modi": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Gaurang Modi",
+                "drug_name": "Tecentriq",
+                "potential": "85",
+                "penetration": "73",
+                "belief": "3.6",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "27",
+                "dot": "160"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Gaurang Modi",
+                "drug_name": "Tecentriq",
+                "potential": "83",
+                "penetration": "70",
+                "belief": "4.4",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "25",
+                "dot": "155"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Gaurang Modi",
+                "drug_name": "Tecentriq",
+                "potential": "88",
+                "penetration": "76",
+                "belief": "2.9",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "32",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Gaurang Modi",
+                "drug_name": "Tecentriq",
+                "potential": "83",
+                "penetration": "70",
+                "belief": "4.8",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "26",
+                "dot": "80"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Gaurang Modi",
+                "drug_name": "Tecentriq",
+                "potential": "79",
+                "penetration": "67",
+                "belief": "3.3",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "18",
+                "dot": "110"
+            }
+        ],
+        "Harsha Panchal": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Harsha Panchal",
+                "drug_name": "Tecentriq",
+                "potential": "86",
+                "penetration": "74",
+                "belief": "4.2",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "28",
+                "dot": "155"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Harsha Panchal",
+                "drug_name": "Tecentriq",
+                "potential": "84",
+                "penetration": "71",
+                "belief": "3.9",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "26",
+                "dot": "165"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Harsha Panchal",
+                "drug_name": "Tecentriq",
+                "potential": "88",
+                "penetration": "76",
+                "belief": "3.3",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "33",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Harsha Panchal",
+                "drug_name": "Tecentriq",
+                "potential": "83",
+                "penetration": "70",
+                "belief": "4.7",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "27",
+                "dot": "75"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Harsha Panchal",
+                "drug_name": "Tecentriq",
+                "potential": "79",
+                "penetration": "67",
+                "belief": "3.6",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "20",
+                "dot": "110"
+            }
+        ],
+        "Kajal Shah": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Kajal Shah",
+                "drug_name": "Tecentriq",
+                "potential": "85",
+                "penetration": "73",
+                "belief": "4.5",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "29",
+                "dot": "165"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Kajal Shah",
+                "drug_name": "Tecentriq",
+                "potential": "83",
+                "penetration": "70",
+                "belief": "3.8",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "24",
+                "dot": "160"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Kajal Shah",
+                "drug_name": "Tecentriq",
+                "potential": "88",
+                "penetration": "76",
+                "belief": "2.6",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "34",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Kajal Shah",
+                "drug_name": "Tecentriq",
+                "potential": "83",
+                "penetration": "70",
+                "belief": "4.2",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "28",
+                "dot": "80"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Kajal Shah",
+                "drug_name": "Tecentriq",
+                "potential": "79",
+                "penetration": "67",
+                "belief": "3.2",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "21",
+                "dot": "110"
+            }
+        ],
+        "Maitrik Mehta": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Maitrik Mehta",
+                "drug_name": "Tecentriq",
+                "potential": "87",
+                "penetration": "72",
+                "belief": "4.7",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "30",
+                "dot": "160"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Maitrik Mehta",
+                "drug_name": "Tecentriq",
+                "potential": "82",
+                "penetration": "69",
+                "belief": "3.5",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "23",
+                "dot": "150"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Maitrik Mehta",
+                "drug_name": "Tecentriq",
+                "potential": "89",
+                "penetration": "75",
+                "belief": "2.8",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "32",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Maitrik Mehta",
+                "drug_name": "Tecentriq",
+                "potential": "84",
+                "penetration": "71",
+                "belief": "4.3",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "28",
+                "dot": "75"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Maitrik Mehta",
+                "drug_name": "Tecentriq",
+                "potential": "78",
+                "penetration": "66",
+                "belief": "3.9",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "22",
+                "dot": "110"
+            }
+        ],
+        "Rajan Yadav": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Rajan Yadav",
+                "drug_name": "Tecentriq",
+                "potential": "86",
+                "penetration": "71",
+                "belief": "4.4",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "31",
+                "dot": "160"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Rajan Yadav",
+                "drug_name": "Tecentriq",
+                "potential": "81",
+                "penetration": "68",
+                "belief": "3.7",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "25",
+                "dot": "150"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Rajan Yadav",
+                "drug_name": "Tecentriq",
+                "potential": "88",
+                "penetration": "75",
+                "belief": "2.9",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "33",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Rajan Yadav",
+                "drug_name": "Tecentriq",
+                "potential": "84",
+                "penetration": "70",
+                "belief": "4.2",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "29",
+                "dot": "75"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Rajan Yadav",
+                "drug_name": "Tecentriq",
+                "potential": "79",
+                "penetration": "66",
+                "belief": "3.5",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "23",
+                "dot": "110"
+            }
+        ],
+        "Shashank Pandya": [
+            {
+                "month": "2023-02",
+                "hcp_name": "Shashank Pandya",
+                "drug_name": "Tecentriq",
+                "potential": "84",
+                "penetration": "69",
+                "belief": "4.1",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "27",
+                "dot": "160"
+            },
+            {
+                "month": "2023-03",
+                "hcp_name": "Shashank Pandya",
+                "drug_name": "Tecentriq",
+                "potential": "79",
+                "penetration": "66",
+                "belief": "3.8",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "21",
+                "dot": "150"
+            },
+            {
+                "month": "2023-04",
+                "hcp_name": "Shashank Pandya",
+                "drug_name": "Tecentriq",
+                "potential": "86",
+                "penetration": "73",
+                "belief": "4.4",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "31",
+                "dot": "170"
+            },
+            {
+                "month": "2023-05",
+                "hcp_name": "Shashank Pandya",
+                "drug_name": "Tecentriq",
+                "potential": "82",
+                "penetration": "68",
+                "belief": "4.6",
+                "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                "npt(New_patient_Therapy)": "28",
+                "dot": "75"
+            },
+            {
+                "month": "2023-06",
+                "hcp_name": "Shashank Pandya",
+                "drug_name": "Tecentriq",
+                "potential": "77",
+                "penetration": "64",
+                "belief": "2.6",
+                "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                "npt(New_patient_Therapy)": "23",
+                "dot": "110"
+            }
+        ],
+        "Srikanth": [
+                {
+                    "month": "2023-02",
+                    "hcp_name": "Srikanth",
+                    "drug_name": "Tecentriq",
+                    "potential": "86",
+                    "penetration": "71",
+                    "belief": "4.3",
+                    "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                    "npt(New_patient_Therapy)": "28",
+                    "dot": "160"
+                },
+                {
+                    "month": "2023-03",
+                    "hcp_name": "Srikanth",
+                    "drug_name": "Tecentriq",
+                    "potential": "81",
+                    "penetration": "66",
+                    "belief": "4.2",
+                    "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                    "npt(New_patient_Therapy)": "22",
+                    "dot": "150"
+                },
+                {
+                    "month": "2023-04",
+                    "hcp_name": "Srikanth",
+                    "drug_name": "Tecentriq",
+                    "potential": "87",
+                    "penetration": "72",
+                    "belief": "4.4",
+                    "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                    "npt(New_patient_Therapy)": "32",
+                    "dot": "170"
+                },
+                {
+                    "month": "2023-05",
+                    "hcp_name": "Srikanth",
+                    "drug_name": "Tecentriq",
+                    "potential": "83",
+                    "penetration": "68",
+                    "belief": "4.5",
+                    "indication": ["1L HCC", "1L MNSCLC", "1L MTNBC", "2L MNSCLC"],
+                    "npt(New_patient_Therapy)": "28",
+                    "dot": "75"
+                },
+                {
+                    "month": "2023-06",
+                    "hcp_name": "Srikanth",
+                    "drug_name": "Tecentriq",
+                    "potential": "79",
+                    "penetration": "65",
+                    "belief": "4.0",
+                    "indication": ["1L NSCLC", "1L HCC", "1L MNSCLC", "1L MTNBC"],
+                    "npt(New_patient_Therapy)": "23",
+                    "dot": "110"
+                }
+            ]
+    }
+

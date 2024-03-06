@@ -1,0 +1,18 @@
+Show me the engagements throughout the year for HCP {hcp_name} for  {indication_name}
+Engagament details for selected HCP {hcp_name} 
+Show me the engagements throughout the year for HCP {hcp_name}
+Display the yearly engagements for HCP {hcp_name} .
+Can I see all the engagements for HCP {hcp_name} over the past year?
+Show me a summary of engagements with HCP {hcp_name} for the entire year.
+I'd like to view the engagements with HCP {hcp_name} over the course of the year, please.
+Present the annual engagement report for HCP {hcp_name} .
+Provide an overview of HCP {hcp_name} 's engagements for the past year.
+Could you give me a breakdown of HCP {hcp_name} 's activities over the last twelve months?
+Show me all the meetings HCP {hcp_name} had for {indication_name} this year.
+Can I see a list of HCP {hcp_name} 's events for {indication_name} in the past year?
+Display HCP {hcp_name} 's engagements for {indication_name} throughout the year.
+Give me a rundown of HCP {hcp_name} 's {indication_name} meetings this year.
+What events did HCP {hcp_name} attend for {indication_name} in the last 12 months?
+Show me the schedule of HCP {hcp_name} 's {indication_name} events this year.
+Provide a list of all {indication_name} meetings attended by HCP {hcp_name} in the past year.
+Engagament details for selected brand indication and HCP

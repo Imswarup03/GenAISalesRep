@@ -1,0 +1,69 @@
+[
+    {
+        "name": "increase_penetration_vs_potential",
+        "description": "To Increase penetration vs potential of top 10-20 HCPs by 5% from baseline",
+        "parameters": {
+            "type": "object",
+            "properties": {},
+            "required": []
+        }
+    },
+    {
+        "name": "indication_wise_potential_and_penetration",
+        "description": "To show the indication wise potential and penetration for a drug like Tecentriq for a HCP(Health Care Professional)",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "hcp_name": {
+                    "type": "string",
+                    "description": "Name of the health care professional(HCP)"
+                },
+                "drug_name": {
+                    "type": "string",
+                    "description": "Name of the Drug like Tecentriq"
+                }
+            },
+            "required": ["hcp_name", "drug_name"]
+        }
+    },
+    {
+        "name": "engagement_throughout_the_year",
+        "description": "To show the engagement throughout the year for an HCP of a drug with indication",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "hcp_name": {
+                    "type": "string",
+                    "description": "Name of the health care professional"
+                },
+                "drug_name": {
+                    "type": "string",
+                    "description": "Name of the drug"
+                },
+                "indication": {
+                    "type": "string",
+                    "description": "Indication refers to a specific medical condition or disease for which a particular drug or treatment is approved or intended to treat, prevent, or manage"
+                }
+            },
+            "required": ["hcp_name", "drug_name", "indication"]
+        }
+    },
+    {
+        "name": "belief_levels_for_hcp",
+        "description": "To Show how the belief for Tecentriq 1L NSCLC has evolved throughout the year for an HCP ",
+        "parameters": {
+            "type": "object",
+            "properties": {
+                "hcp_name": {
+                    "type": "string",
+                    "description": "Health care professional name"
+                },
+                "drug_name": {
+                    "type": "string",
+                    "description": "Name of the drug"
+                }
+            },
+            "required": ["hcp_name"]
+        }
+    }
+]
